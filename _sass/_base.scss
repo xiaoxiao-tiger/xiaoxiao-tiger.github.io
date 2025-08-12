@@ -1,7 +1,9 @@
 /*******************************************************************************
  * Styles for the base elements of the theme.
  ******************************************************************************/
-
+html, body {
+  font-family: "Helvetica Neue", Arial, "PingFang SC", "Microsoft YaHei", "SimHei", sans-serif;
+}
 // Typography
 
 p,
