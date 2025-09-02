@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-07-31 23:56:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+我创建了学术公众号`论文榨汁机`
