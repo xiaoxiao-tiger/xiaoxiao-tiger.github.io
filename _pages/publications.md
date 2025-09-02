@@ -13,7 +13,7 @@ nav_order: 1
 
 # 期刊论文
 ---
-1. Xu, H., <strong>Xiao, X.</strong>, Xu, M., & Wang, B. (2023). *How Does Persuasion Happen? A Novel Bounded Confidence Opinion Dynamics Model Based on Social Judgment Theory.* <strong>IEEE Systems Journal</strong>, 17(1), 708–719. https://doi.org/10.1109/JSYST.2022.3205724
+1. Xu, H., <strong>Xiao, X.</strong>, Xu, M., & Wang, B. (2023). *How Does Persuasion Happen? A Novel Bounded Confidence Opinion Dynamics Model Based on Social Judgment Theory.* <strong>IEEE Systems Journal</strong>, 17(1), 708–719.
 
 
 # 会议论文
