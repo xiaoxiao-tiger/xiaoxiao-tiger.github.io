@@ -22,7 +22,7 @@ nav_order: 1
 
 2. <strong>Xiao, X.</strong>, Ma, W.H. (2025). *Games as a Medium: The Role of Black Myth: Wukong in Promoting the Overseas Dissemination of journey to the West.*  Paper to be presented at the the National Communication Association's <strong>(NCA)</strong> 111th Annual Convention, Colorado, USA.
 
-3. <strong>Xiao, X.</strong>, Xu, M., & Xu, H. (2022). *A Novel Asynchronous Evolution Opinion Dynamics Model.* 2022 IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 786–791. https://doi.org/10.1109/TrustCom56396.2022.00110 
+3. <strong>Xiao, X.</strong>, Xu, M., & Xu, H. (2022). *A Novel Asynchronous Evolution Opinion Dynamics Model.* 2022 IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 786–791.
 
 ## 工作论文
 ---
